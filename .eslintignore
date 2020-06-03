@@ -1,0 +1,5 @@
+build/*.js
+config/*.js
+src/components/order/jsmind.js
+node_modules/
+

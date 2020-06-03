@@ -1,0 +1,8 @@
+/**
+ * Created by sunxiaoying on 2018/1/11.
+ */
+export const CHANGE_LANGUAGE = 'CHANGE_LANGUAGE'
+export const CHANGE_CURRENT_PATH = 'CHANGE_CURRENT_PATH'
+export const CHANGE_THIRD_BREAD = 'CHANGE_THIRD_BREAD'
+export const CHANGE_FORM = 'CHANGE_FORM'
+export const MORE_THAN_THREEDAYS = 'MORE_THAN_THREEDAYS'
